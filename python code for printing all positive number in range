@@ -1,0 +1,13 @@
+list1 = [10,-2,4,-8,9,18]
+num = 0
+
+
+while(num < len(list1)):
+	
+	
+	if list1[num] >= 0:
+		print(list1[num], end = " ")
+	
+
+	num += 1
+	
